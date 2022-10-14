@@ -18,4 +18,4 @@ async def on_member_join(ctx, member):
     await ctx.send(vragen[0], vragen[1], vragen[2], vragen[3])
     await bot.wait_for(optie)
     
-bot.run("MTAzMDQwMDQ0ODM0MDk1OTI1Mg.GBrVdD.r8ND3iZ04VMyT7z5Y_lCEqF2sw1oQsnOiNnSAk")
+bot.run()
